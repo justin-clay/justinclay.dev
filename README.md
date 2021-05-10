@@ -1,2 +1,2 @@
-# techdegree-project-1
- WebDev Techdegree Unit 1 Project
+# Justin Clay's Developer Site
+ This is my developer site.
